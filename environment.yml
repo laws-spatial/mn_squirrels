@@ -1,4 +1,3 @@
-name: squirrel3
 channels:
   - conda-forge
   - defaults
