@@ -1,5 +1,2 @@
-# exclude everything
-data/*
-
-# exception to the rule
-!data/readme.md
+# exclude folders
+data/raw*

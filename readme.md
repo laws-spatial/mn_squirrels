@@ -5,11 +5,12 @@
 Clone the repo using
 
 ```
-git clone 
+git clone https://github.com/alaws-USGS/mn_squirrels.git
 ```
 
 ### Set up conda environment
-Open a conda command line and change directory into mn_squirrels
+Open a conda CLI and change directory into mn_squirrels. Create the environment from the
+environment.yml.
 
 ```
 cd mn_squirrels
