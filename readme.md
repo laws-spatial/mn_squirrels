@@ -21,3 +21,4 @@ conda create -f environment.yml
 The data was created using the data_prep.ipynb notebook found in the /data folder. However, using [dask-geopandas](https://dask-geopandas.readthedocs.io/en/stable/) allows the shapefiles to be read from the web service and manipulated when an internet connection is present.
 
 # mn_squirrels
+# mn_squirrels
