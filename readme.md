@@ -5,7 +5,7 @@
 Clone the repo using
 
 ```
-git clone https://github.com/alaws-USGS/mn_squirrels.git
+git clone https://github.com/laws-spatial/mn_squirrels.git
 ```
 
 ### Set up conda environment
