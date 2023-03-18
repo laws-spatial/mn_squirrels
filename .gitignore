@@ -1,2 +1,4 @@
 # exclude folders
 data/raw*
+.ipynb_checkpoints
+forest_web.html
